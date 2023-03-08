@@ -2,7 +2,7 @@ package com.example.project;
 import java.util.Scanner;
 
 public class Cube {
-
+    private static boolean proceed = true;
 
     static String[][] face = {
         {"1","2","3"},
@@ -125,6 +125,7 @@ public class Cube {
         Scanner userInput = new Scanner(System.in);
         String input = userInput.nextLine();
         move(cube, input);
+        
         
         
         
