@@ -70,22 +70,22 @@ public class Cube {
             System.out.println("working");   
                 break;
             case "d":
-                //Code Block
+            System.out.println("working"); 
                 break;
             case "r":
-                //Code Block
+            System.out.println("working"); 
                 break;
             case "l":
-                //Code Block
+            System.out.println("working"); 
                 break;
             case "f":
-                //Code Block
+            System.out.println("working"); 
                 break;
             case "b":
-                //Code Block
+            System.out.println("working"); 
                 break;            
             default:
-                //Code Block 
+            System.out.println("working"); 
         }
     }
 
