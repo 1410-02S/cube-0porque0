@@ -1,5 +1,6 @@
 package com.example.project;
 import java.util.Scanner;
+//Quite incomplete but a fine starting point
 
 public class Cube {
     private static boolean proceed = true;
